@@ -1,16 +1,28 @@
-## Hi there 👋
+## :computer: Olá pessoal :computer:
+<br>
 
-<!--
-**Aparecida07/Aparecida07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu me chamo Aparecida Vieira e sou uma programadora (em aprendizado) frontend.
+Sou estudante no DevClub e atualmete estou aprendendo as tecnologias necessárias, para me tornar uma grande desenvolvedora.
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :earth_americas: Moro na Zona Norte de São Paulo-SP, Brasil
+- :email: aparecidavs07@gmail.com
+
+<br>
+
+## Habilidades
+
+<div {display="inline"} >
+<img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="40px">
+<img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" width="40px">
+<img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="40px">
+</div>
+
+## Redes Sociais 
+
+<div {display="inline"} > 
+<img src="https://img.icons8.com/?size=100&id=32323&format=png&color=000000" width="40px">
+<img src="https://img.icons8.com/?size=100&id=118497&format=png&color=000000" width="40px">
+<img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="40px">
+</div>
