@@ -22,8 +22,8 @@ Sou estudante no DevClub e atualmete estou aprendendo as tecnologias necessária
 ## Redes Sociais 
 
 <div {display="inline"} > 
-<a href="https://www.instagram.com/paixaoap07/" target=”_blank ><img src="https://img.icons8.com/?size=100&id=32323&format=png&color=000000" width="40px"><a>
-<a href="https://www.facebook.com/paixao.aparecida/ target="><img src="https://img.icons8.com/?size=100&id=118497&format=png&color=000000" width="40px"><a>
+<a href="https://www.instagram.com/paixaoap07/" target=_blank"><img src="https://img.icons8.com/?size=100&id=32323&format=png&color=000000" width="40px"><a>
+<a href="https://www.facebook.com/paixao.aparecida/ target=blank"><img src="https://img.icons8.com/?size=100&id=118497&format=png&color=000000" width="40px"><a>
 <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="40px">
 </div>
 
